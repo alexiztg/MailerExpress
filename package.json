@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/alexiztg/MailerExpress#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemailer": "^6.1.1"
   }
 }
